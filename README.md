@@ -1,4 +1,4 @@
--- 👋 Hi, I’m Adhil Payingalil | @Adhil-alpha
+-- 👋 Hi, I’m @Adhil-Payingalil
 - 👀 I’m interested in anaything and everything related to data
 - 🌱 I’m currently learning Blockchain Data Analytics and also a post-graduate Business Analytics student
 - ◀️ I've over two years of data analytics and operations management experience in the ed-tech sector
