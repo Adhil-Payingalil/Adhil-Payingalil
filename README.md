@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adhil-Payingalil
 - 👀 I’m interested in anything and everything related to data
-- 🌱 I’m currently learning Blockchain Data Analytics and also a post-graduate Business Analytics student
+- 🌱 Post-graduate Business Analytics student
 - ◀️ I've over two years of data analytics and operations management experience in the ed-tech sector
 - 🚀 I’m looking to collaborate on Data Analytics / Data Science projects.
 - 📫 How to reach me : https://www.linkedin.com/in/adhil-payingalil
