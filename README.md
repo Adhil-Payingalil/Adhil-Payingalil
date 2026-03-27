@@ -2,8 +2,7 @@
 - 👀 I’m interested in anything and everything related to leveraging data to optimize business processes.
 - 🌱 A Civil Engineer turned Data Analyst.
 - ☑️ Post-graduation in Business Analytics.
-- ◀️ I've over two years of data analytics and operations management experience in the Ed-Tech sector
-- 🚀 I’m looking to collaborate on Market Research / Data Analytics / Data Science projects.
+- ◀️ Over 3 years of experience in data analytics and operations management.
 - 📫 How to reach me : https://www.linkedin.com/in/adhil-payingalil
 
 <!---
